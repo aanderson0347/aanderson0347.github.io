@@ -1,17 +1,29 @@
-body {
-  background-color: white;
+h1{
+	color: white;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 50px;
+  text-align: center;
 }
-h1 {
-  color: black;
-  font-family: "Times New Roman", Times, serif;
+
+ body {
+  background-color: white;
+  background-image: url("background.png");
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 20px;
+  text-align: center;
 }
 p {
-  color: red;
-  font-family: "Times New Roman", Times, serif;
+  
+  color: white;
 }
-div {
-  width: 320px;
-  padding: 10px;
-  border: 5px solid gray;
-  margin: 0;
+p2 {
+	color: white;
+}
+a {
+	color: green;
+}
+img {
+	
 }
